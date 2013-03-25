@@ -3,9 +3,8 @@ CSharpJsonParsing
 
 Example of JSON parsing and writing techniques using the open-source Json.NET library.
 
-Checkout the (sample JSON data)[1].
-And the (file actually doing the work)[2].
+Checkout the [sample JSON data](https://github.com/itsff/CSharpJsonParsing/blob/master/CSharpJsonParsing/zuck.js),
+and the [file actually doing the work](https://github.com/itsff/CSharpJsonParsing/blob/master/CSharpJsonParsing/Main.cs).
 
 
-[1] https://github.com/itsff/CSharpJsonParsing/blob/master/CSharpJsonParsing/zuck.js
-[2] https://github.com/itsff/CSharpJsonParsing/blob/master/CSharpJsonParsing/Main.cs
+
