@@ -1,7 +1,7 @@
 CSharpJsonParsing
 =================
 
-Example of JSON parsing and writing techniques using the open-source Json.NET library.
+Example of JSON parsing and writing techniques using the open-source [Json.NET](http://json.codeplex.com/) library.
 
 Checkout the [sample JSON data](https://github.com/itsff/CSharpJsonParsing/blob/master/CSharpJsonParsing/zuck.js)
 (Mark Zuckerberg's Facebook profile),
